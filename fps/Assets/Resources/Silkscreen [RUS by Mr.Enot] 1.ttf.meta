@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: ee0b1727e16071e4d9a90bdb07c06cb3
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Silkscreen [Rus by Mr.Enot]
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 9608f4be48850ff4b9fb101dcac44cdf, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
